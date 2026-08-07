@@ -1,0 +1,9 @@
+streamlit>=1.40
+openai>=1.40                 # extraction (GPT) + openai embedding provider
+sentence-transformers>=2.7   # optional local embedding provider (no key)
+pypdf>=4.0
+rank-bm25>=0.2.2
+numpy>=1.26
+pandas>=2.0
+pydantic>=2.6
+python-dotenv>=1.0

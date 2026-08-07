@@ -1,0 +1,112 @@
+{
+  "alc-0315": {
+    "approximate": false,
+    "smiles": "CCCCCCCCC(CCCCCC)C(=O)OCCCCCCN(CCCCCCOC(=O)C(CCCCCC)CCCCCCCC)CCCCO",
+    "source": "PubChem CID 122666778"
+  },
+  "beta-sitosterol": {
+    "approximate": false,
+    "smiles": "CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C",
+    "source": "PubChem CID 222284"
+  },
+  "c12-200": {
+    "approximate": false,
+    "smiles": "CCCCCCCCCCC(CN(CCN1CCN(CC1)CCN(CC(CCCCCCCCCC)O)CC(CCCCCCCCCC)O)CCN(CC(CCCCCCCCCC)O)CC(CCCCCCCCCC)O)O",
+    "source": "PubChem CID 49785165"
+  },
+  "cholesterol": {
+    "approximate": false,
+    "smiles": "C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C",
+    "source": "PubChem CID 5997"
+  },
+  "dlin-kc2-dma": {
+    "approximate": false,
+    "smiles": "CCCCC/C=C\\C/C=C\\CCCCCCCCC1(OC(CO1)CCN(C)C)CCCCCCCC/C=C\\C/C=C\\CCCCC",
+    "source": "PubChem CID 44464860"
+  },
+  "dlin-mc3-dma": {
+    "approximate": false,
+    "smiles": "CCCCC/C=C\\C/C=C\\CCCCCCCCC(OC(=O)CCCN(C)C)CCCCCCCC/C=C\\C/C=C\\CCCCC",
+    "source": "PubChem CID 49785164"
+  },
+  "dmg-peg2000": {
+    "approximate": true,
+    "smiles": "CCCCCCCCCCCCCC(=O)OCC(CO)OC(=O)CCCCCCCCCCCCC",
+    "source": "anchor (DMG); PEG omitted \u00b7 PubChem CID 89298"
+  },
+  "dodap": {
+    "approximate": false,
+    "smiles": "CCCCCCCC/C=C\\CCCCCCCC(=O)OCC(CN(C)C)OC(=O)CCCCCCC/C=C\\CCCCCCCC",
+    "source": "PubChem CID 9895790"
+  },
+  "dodma": {
+    "approximate": false,
+    "smiles": "CCCCCCCC/C=C\\CCCCCCCCOCC(CN(C)C)OCCCCCCCC/C=C\\CCCCCCCC",
+    "source": "PubChem CID 11181107"
+  },
+  "dopc": {
+    "approximate": false,
+    "smiles": "CCCCCCCC/C=C\\CCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCC/C=C\\CCCCCCCC",
+    "source": "PubChem CID 10350317"
+  },
+  "dope": {
+    "approximate": false,
+    "smiles": "CCCCCCCC/C=C\\CCCCCCCC(=O)OC[C@H](COP(=O)(O)OCCN)OC(=O)CCCCCCC/C=C\\CCCCCCCC",
+    "source": "PubChem CID 9546757"
+  },
+  "dotap": {
+    "approximate": false,
+    "smiles": "CCCCCCCC/C=C\\CCCCCCCC(=O)OCC(C[N+](C)(C)C)OC(=O)CCCCCCC/C=C\\CCCCCCCC",
+    "source": "PubChem CID 6437371"
+  },
+  "dotma": {
+    "approximate": false,
+    "smiles": "CCCCCCCC/C=C\\CCCCCCCCOCC(C[N+](C)(C)C)OCCCCCCCC/C=C\\CCCCCCCC.[Cl-]",
+    "source": "PubChem"
+  },
+  "dppc": {
+    "approximate": false,
+    "smiles": "CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCCCCCCCCCC",
+    "source": "PubChem CID 452110"
+  },
+  "dsg-peg2000": {
+    "approximate": true,
+    "smiles": "CCCCCCCCCCCCCCCCCC(=O)OCC(CO)OC(=O)CCCCCCCCCCCCCCCCC",
+    "source": "anchor (DSG); PEG omitted \u00b7 PubChem CID 102615"
+  },
+  "dspc": {
+    "approximate": false,
+    "smiles": "CCCCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCCCCCCCCCCCC",
+    "source": "PubChem CID 94190"
+  },
+  "dspe-peg2000": {
+    "approximate": true,
+    "smiles": "CCCCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)(O)OCCN)OC(=O)CCCCCCCCCCCCCCCCC",
+    "source": "anchor (DSPE); PEG omitted \u00b7 PubChem CID 447078"
+  },
+  "polyglycerol": {
+    "approximate": true,
+    "smiles": "C(C(CO)O)O",
+    "source": "repeat unit (glycerol) \u00b7 PubChem CID 753"
+  },
+  "polyoxazoline": {
+    "approximate": true,
+    "smiles": "CCC1=NCCO1",
+    "source": "repeat unit (2-ethyl-2-oxazoline) \u00b7 PubChem CID 66412"
+  },
+  "polysarcosine": {
+    "approximate": true,
+    "smiles": "CNCC(=O)O",
+    "source": "repeat unit (sarcosine) \u00b7 PubChem CID 1088"
+  },
+  "popc": {
+    "approximate": false,
+    "smiles": "CCCCCCCCCCCCCCCC(=O)OC[C@H](COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCC/C=C\\CCCCCCCC",
+    "source": "PubChem CID 5497103"
+  },
+  "sm-102": {
+    "approximate": false,
+    "smiles": "CCCCCCCCCCCOC(=O)CCCCCN(CCCCCCCC(=O)OC(CCCCCCCC)CCCCCCCC)CCO",
+    "source": "PubChem CID 126697616"
+  }
+}

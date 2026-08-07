@@ -1,0 +1,17 @@
+{
+  "monoolein": {
+    "smiles": "CCCCCCCC/C=C\\CCCCCCCC(=O)OCC(CO)O",
+    "source": "PubChem CID 5283468",
+    "approximate": false
+  },
+  "oleyl acetate": {
+    "smiles": "CCCCCCCC/C=C\\CCCCCCCCOC(=O)C",
+    "source": "PubChem CID 5363289",
+    "approximate": false
+  },
+  "pluronic f127": {
+    "smiles": "CC(COCCO)OCCO",
+    "source": "PubChem CID 10154203",
+    "approximate": false
+  }
+}
